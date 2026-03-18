@@ -11,9 +11,9 @@ function Hero() {
         </h1>
 
         <p className="hero__description">
-          I’m transitioning from gym operations into software development after
-          building real applications that solve real business problems—from
-          internal management systems to desktop tools and event platforms.
+          I’m transitioning from gym operations into software development after building real
+           applications that solve real business problems, such as internal management systems, 
+           desktop tools, and event platforms.
         </p>
 
         <div className="hero__actions">
